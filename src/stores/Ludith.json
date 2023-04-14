@@ -1,0 +1,49 @@
+{
+  "name": "Ludith",
+  "class": "Archer",
+  "race": "Human",
+  "attributes": {
+    "Strength": 3,
+    "Agility": 7,
+    "Endurance": 4,
+    "Intellect": 6,
+    "Charisma": 5,
+    "Willpower": 5,
+    "Perception": 4,
+    "Beyond": 5,
+  "inventory":[
+    {
+      "name": "Gambesone",
+      "equipped": true,
+      "quantity": 1
+    },
+    {
+      "name": "Longbow",
+      "equipped": true,
+      "quantity": 1
+    },
+    {
+      "name": "Arrow",
+      "equipped": true,
+      "quantity": 30
+    },
+    {
+      "name": "lemon reet",
+      "equipped": false,
+      "quantity": 1
+    },
+    {
+      "name": "Rations",
+      "equipped": false,
+      "quantity": 20
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Deadly shot",
+      "cost": 30,
+      "description": "Who read this are hit by an arrow."
+    }
+  ]
+}
+}

@@ -1,12 +1,12 @@
 <template>
-  <GreenCityView></GreenCityView>
+  <CharacterView></CharacterView>
 </template>
 
 <script>
-import GreenCityView from "@/components/GreenCityView.vue";
+import CharacterView from "@/components/CharacterView.vue";
 export default {
   components: {
-    GreenCityView
+    CharacterView
   }
 }
 </script>
